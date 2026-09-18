@@ -9,6 +9,16 @@ Full-stack app that turns a topic into a structured course: modules, lessons, qu
 
 ## Demo
 
+![Log in](image_1.png)
+
+![Home — generate a course](image_2.png)
+
+![Course outline with modules and lessons](image_3.png)
+
+![Lesson content](image_4.png)
+
+![Lesson quizzes](image_5.png)
+
 ![Text-to-Learn demo](demo.mp4)
 
 ## Stack
